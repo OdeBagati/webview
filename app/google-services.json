@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669323136881",
+    "firebase_url": "https://bali-tourism-a4fe5.firebaseio.com",
+    "project_id": "bali-tourism-a4fe5",
+    "storage_bucket": "bali-tourism-a4fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669323136881:android:cd2485863aa56f7e0d30d0",
+        "android_client_info": {
+          "package_name": "com.example.balitourismwebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669323136881-i0vjniambn1bs0t9qrr9nn7smjhue303.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS2Nh1-diCZQboOV9f2NDW03sG1InxAIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669323136881-i0vjniambn1bs0t9qrr9nn7smjhue303.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
